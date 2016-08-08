@@ -1,0 +1,23 @@
+
+<script src="animation.js?1470546377413"></script>
+<script src="https://d309knd7es5f10.cloudfront.net/zim_3.js?1470546377413"></script>
+ 
+ 
+ 
+<script>
+        function init_animation() {
+            var options = new createjs.MovieClip();
+            options.animationContainer = exportRoot.animationContainer;
+            options.maskHeight = 160;
+            options.speed = 15;
+            //options.scrollBarVisible = false;
+            options.scrollBarWidth = 9;
+            options.scrollBarBtnColor = "#009966";
+            options.scrollBarBtnOverColor = "#333333";
+            options.scrollBarBackgroundColor = "#cccccc";
+            animation(exportRoot, options);
+        }
+</script>
+
+
+init_animation();
