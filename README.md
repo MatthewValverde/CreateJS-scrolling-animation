@@ -1,7 +1,7 @@
-## CreateJS-scrolling-animation
+# CreateJS-scrolling-animation
 CreateJS scrolling animation with scrollbar.
 
-# How-to add the animation scripts to Adobe Animate.
+## How-to add the animation scripts to Adobe Animate.
 
 Steps:
 1. Publish settings -> Advanced Uncheck 'Overwrite HTML file on publish'
@@ -25,12 +25,12 @@ Steps:
    
    
    
-# Videos:
+## Videos:
 How-to add scripts
 https://youtu.be/izlCxNDHgIU
 
 Moving the transformation point.
 https://youtu.be/j1RpIi3PlJw
 
-# Example is using the 'ZIM Slider Component'
+## Example is using the 'ZIM Slider Component'
 https://zimjavascript.wordpress.com/2016/04/11/scrollbar-for-createjs-using-zim-slider-component-on-the-html-5-canvas-with-javascript/
